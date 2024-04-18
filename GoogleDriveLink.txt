@@ -1,0 +1,6 @@
+Below is the link for the drive folder which was mounted over collab to store the weights,files and variables.
+
+https://drive.google.com/drive/folders/1y1q5Ol6faj34JOsK0nK0lFQwi4GOWkiK?usp=sharing
+
+
+Due to collab limitations , can not complete entire training to 11000 epochs . Could achieve 2000 epochs.
